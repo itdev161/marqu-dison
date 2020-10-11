@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://obi-wan:obi123@cluster0.xbpgg.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://obi-wan:obi123@cluster0.xbpgg.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "thereisnotry"
 }
